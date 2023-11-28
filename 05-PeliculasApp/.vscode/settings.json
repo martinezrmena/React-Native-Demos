@@ -1,0 +1,16 @@
+{
+  "java.compile.nullAnalysis.mode": "automatic",
+  "cSpell.words": [
+    "Actores",
+    "Boton",
+    "cerrar",
+    "Colores",
+    "Detalles",
+    "Historia",
+    "Ionicons",
+    "Películas",
+    "populares",
+    "Presupuesto"
+  ],
+  "java.configuration.updateBuildConfiguration": "automatic"
+}
